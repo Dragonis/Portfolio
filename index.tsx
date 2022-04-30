@@ -7,6 +7,8 @@ import { About, Footer, Skills, Work } from './container';
 import { Navbar } from './components';
 import App from './App';
 
+import './App.scss';
+
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
 
